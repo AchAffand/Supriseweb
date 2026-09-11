@@ -564,7 +564,7 @@ function App() {
             <div className="quiz-finale w-full max-w-sm text-center relative">
               <div className="quiz-confetti" aria-hidden="true" />
               <h2 className="relative z-10 text-xl sm:text-2xl text-white pixel-font mb-4 drop-shadow-md">
-                Yeay Nia!
+                Yeay "Nama Pacar"!
               </h2>
               <p className="relative z-10 pixel-font text-[0.48rem] sm:text-[0.55rem] leading-relaxed text-white drop-shadow-[0_0_7px_rgba(0,0,0,0.9)] mb-8 px-2">
                 Tiga pertanyaan, satu jawaban pasti: kamu yang paling aku sayang. Makasih udah main kuis kecil ini —
@@ -651,7 +651,7 @@ function App() {
                 <div className="envelope__paper">
                   <div className="envelope__sparkles" aria-hidden="true" />
                   <p className="envelope__paper-text pixel-font">
-                    Untuk Nia — Sayang tau ngga? aku bener bener sayaaang banget sama kamu, lopyuu so much sayaang mmmwah
+                    Untuk "Nama Pacar" — Sayang tau ngga? aku bener bener sayaaang banget sama kamu, lopyuu so much sayaang mmmwah
                   </p>
                 </div>
                 <div className="envelope__mask" aria-hidden="true" />
