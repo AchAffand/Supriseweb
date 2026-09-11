@@ -8,12 +8,12 @@ const GALLERY_PHOTOS = [1, 2, 3, 4, 5, 6, 7] as const;
 const QUIZ = [
   {
     q: 'Siapa yang paling lucu dan gemes versi aku?',
-    options: ['Orang random di jalan', 'Nia', 'Kucing tetangga'],
+    options: ['Orang random di jalan', 'Nama Pacar', 'Kucing tetangga'],
     correct: 1
   },
   {
     q: 'Kalau aku lagi capek, siapa yang paling pengen aku peluk?',
-    options: ['Bantal', 'Nia', 'HP'],
+    options: ['Bantal', 'Nama Pacar', 'HP'],
     correct: 1
   },
   {
@@ -25,13 +25,13 @@ const QUIZ = [
 
 /** Ucapan di kartu bucket virtual — ubah sesuka kamu */
 const BUCKET_CARD_MESSAGE =
-  'Buat Nia yang suka bucket bunga — ini versi virtualnya dulu ya sayang. Semoga harimu selalu wangi dan berwarna kayak bunga-bunga ini. Lopyuu!';
+  'Buat "Nama Pacar" yang suka bucket bunga — ini versi virtualnya dulu ya sayang. Semoga harimu selalu wangi dan berwarna kayak bunga-bunga ini. Lopyuu!';
 
 const QUIZ_WRONG_TEASES = [
   'Sayang, marah nih :(',
   'Netnooooott,coba lagi sayang',
   'Hmm kurang tepat. Aku tunggu sampe besok sayang',
-  'Niaa… kok gitu sih, kit heart hati kecilku nih',
+  'Sayang… kok gitu sih, kit heart hati kecilku nih',
   'Salah tapi tetep lucu. Sekali lagi, yang bener yang mana?',
 ] as const;
 
