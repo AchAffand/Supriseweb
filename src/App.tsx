@@ -140,10 +140,10 @@ function App() {
   const sfxPrimedRef = useRef(false);
 
   const titles: Record<Page, string> = {
-    0: 'Untuk Nia :3',
+    0: 'Untuk "Nama Pacar"',
     1: 'Halo Sayang :3',
     2: 'Surat kecil untukmu',
-    3: 'Pap cowo nya niaaa :D',
+    3: 'Pap Pap Papppp :D',
     4: 'Kuis mini sayang :3',
     5: 'Bucket bunga virtual',
     6: 'Titik akhir yang manis'
